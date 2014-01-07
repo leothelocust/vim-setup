@@ -257,8 +257,8 @@ if (has("gui_running") && g:solarized_degrade == 0)
     let s:violet      = "#6c71c4"
     let s:blue        = "#268bd2"
     let s:cyan        = "#2aa198"
-    "let s:green       = "#859900" "original
-    let s:green       = "#719e07" "experimental
+    let s:green       = "#859900" "original
+    "let s:green       = "#719e07" "experimental
 elseif (has("gui_running") && g:solarized_degrade == 1)
     " These colors are identical to the 256 color mode. They may be viewed
     " while in gui mode via "let g:solarized_degrade=1", though this is not
@@ -654,7 +654,6 @@ exe "hi! DiffDelete"     .s:fmt_none   .s:fg_red    .s:bg_base02
 exe "hi! DiffText"       .s:fmt_none   .s:fg_blue   .s:bg_base02 .s:sp_blue
     endif
 endif
-exe "hi! SignColumn"     .s:fmt_none   .s:fg_base0
 exe "hi! Conceal"        .s:fmt_none   .s:fg_blue   .s:bg_none
 exe "hi! SpellBad"       .s:fmt_curl   .s:fg_none   .s:bg_none    .s:sp_red
 exe "hi! SpellCap"       .s:fmt_curl   .s:fg_none   .s:bg_none    .s:sp_violet
