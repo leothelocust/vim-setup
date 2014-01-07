@@ -25,3 +25,6 @@
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
 	url = git://github.com/jlanzarotta/bufexplorer
+[submodule "bundle/TextObjectify"]
+	path = bundle/TextObjectify
+	url = git://github.com/paradigm/TextObjectify
