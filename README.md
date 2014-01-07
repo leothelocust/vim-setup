@@ -28,4 +28,8 @@ Included submodules in the bundle/ directory are:
   
   13) [surround](https://github.com/tpope/vim-surround "go to github page") by Tim Pope
   
-  14) [TextObjectify](https://github.com/paradigm/TextObjectify "go to github page") by paradigm
+  14) [textobjectify](https://github.com/paradigm/TextObjectify "go to github page") by paradigm
+
+  15) [javascript-syntax](https://github.com/jelera/vim-javascript-syntax "go to github page") by Jose Elera
+
+  16) [javascript-libraries-syntax](https://github.com/othree/javascript-libraries-syntax.vim "go to github page") by othree
