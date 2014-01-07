@@ -43,3 +43,6 @@
 [submodule "bundle/emmet"]
 	path = bundle/emmet
 	url = git://github.com/mattn/emmet-vim
+[submodule "bundle/javascript-syntax"]
+	path = bundle/javascript-syntax
+	url = git://github.com/jelera/vim-javascript-syntax
