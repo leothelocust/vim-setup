@@ -33,3 +33,7 @@ Included submodules in the bundle/ directory are:
   15) [javascript-syntax](https://github.com/jelera/vim-javascript-syntax "go to github page") by Jose Elera
 
   16) [javascript-libraries-syntax](https://github.com/othree/javascript-libraries-syntax.vim "go to github page") by othree
+  
+  17) [webapi-vim](https://github.com/mattn/webapi-vim "go to github page") by mattn
+  
+  18) [gist-vim](https://github.com/mattn/gist-vim "go to github page") by mattn
