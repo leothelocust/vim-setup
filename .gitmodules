@@ -58,3 +58,6 @@
 [submodule "syntax/ee-syntax"]
 	path = syntax/ee-syntax
 	url = git://github.com/farneman/Expression-Engine-Vim-syntax
+[submodule "bundle/vim-haml"]
+	path = bundle/vim-haml
+	url = git://github.com/tpope/vim-haml
