@@ -55,3 +55,6 @@
 [submodule "bundle/gist-vim"]
 	path = bundle/gist-vim
 	url = git://github.com/mattn/gist-vim
+[submodule "syntax/ee-syntax"]
+	path = syntax/ee-syntax
+	url = git://github.com/farneman/Expression-Engine-Vim-syntax
