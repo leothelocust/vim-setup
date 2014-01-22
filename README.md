@@ -42,6 +42,4 @@ Included submodules in the bundle/ directory are:
 
   20) [vim-haml](https://github.com/tpope/vim-haml "go to github page") by Tim Pope
 
-  21) [html5-syntax](https://github.com/othree/html5-syntax.vim "go to github page") by othree
-
-  22) [tagline.vim](https://github.com/mkitt/tabline.vim "go to github page") by Matthew Kitt
+  21) [tagline.vim](https://github.com/mkitt/tabline.vim "go to github page") by Matthew Kitt
