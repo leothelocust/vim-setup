@@ -67,3 +67,6 @@
 [submodule "bundle/html5-syntax"]
 	path = bundle/html5-syntax
 	url = git://github.com/othree/html5-syntax.vim
+[submodule "bundle/tabline.vim"]
+	path = bundle/tabline.vim
+	url = git://github.com/mkitt/tabline.vim
