@@ -64,3 +64,6 @@
 [submodule "bundle/ee-syntax"]
 	path = bundle/ee-syntax
 	url = git://github.com/farneman/Expression-Engine-Vim-syntax
+[submodule "bundle/html5-syntax"]
+	path = bundle/html5-syntax
+	url = git://github.com/othree/html5-syntax.vim

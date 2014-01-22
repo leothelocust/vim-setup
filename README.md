@@ -41,3 +41,5 @@ Included submodules in the bundle/ directory are:
   19) [SWTC.vim, autoswap_mac.vim, dragvisuals.vim, rng.vim, vmath.vim](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup "go to github page") by Damian Conway
 
   20) [vim-haml](https://github.com/tpope/vim-haml "go to github page") by Tim Pope
+
+  21) [html5-syntax](https://github.com/othree/html5-syntax.vim "go to github page") by othree
