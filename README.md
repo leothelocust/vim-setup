@@ -43,3 +43,5 @@ Included submodules in the bundle/ directory are:
   20) [vim-haml](https://github.com/tpope/vim-haml "go to github page") by Tim Pope
 
   21) [tagline.vim](https://github.com/mkitt/tabline.vim "go to github page") by Matthew Kitt
+
+  22) [applescript](https://github.com/vim-scripts/applescript.vim "go to github page") by vim-scripts
