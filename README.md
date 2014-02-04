@@ -43,3 +43,12 @@ Included submodules in the bundle/ directory are:
   20) [tagline.vim](https://github.com/mkitt/tabline.vim "go to github page") by Matthew Kitt
 
   21) [applescript](https://github.com/vim-scripts/applescript.vim "go to github page") by vim-scripts
+
+  22) [tlib_vim](https://github.com/tomtom/tlib_vim "go to github page") by Tom Link
+
+  23) [vim-addon-mw-utils](https://github.com/MarcWeber/vim-addon-mw-utils "go to github page") by Marc Weber
+
+  24) [vim-snipmate](https://github.com/garbas/vim-snipmate "go to github page") by Rok Garbas
+
+  25) [snippets](https://github.com/honza/vim-snippets "go to github page") by Honza Pokorny
+
