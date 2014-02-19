@@ -85,3 +85,6 @@
 [submodule "bundle/snippets"]
 	path = bundle/snippets
 	url = git://github.com/honza/vim-snippets.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = git://github.com/mileszs/ack.vim

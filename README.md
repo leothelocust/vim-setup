@@ -52,3 +52,5 @@ Included submodules in the bundle/ directory are:
 
   25. [snippets](https://github.com/honza/vim-snippets "go to github page") by Honza Pokorny
 
+  26. [ack](https://github.com/mileszs/ack.vim "go to github page") by Miles Z. Sterrett
+

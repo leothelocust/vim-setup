@@ -1,8 +1,8 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/levi/Sites/ee/eideexcelerate/application/views/layouts'
-let g:netrw_dirhist_2='/Users/levi/Sites/ee/eideexcelerate'
-let g:netrw_dirhist_3='/Users/levi/Sites/ee/eideexcelerate/application'
-let g:netrw_dirhist_4='/Users/levi/Sites/ee/eideexcelerate/application/views'
-let g:netrw_dirhist_5='/Users/levi/Sites/ee/eideexcelerate/application'
-let g:netrw_dirhist_6='/Users/levi/Sites/ee/eideexcelerate/application/models'
+let g:netrw_dirhist_1='/Users/levi/Sites/ratchford/template/default_site'
+let g:netrw_dirhist_2='/Users/levi/Sites/ratchford/template/default_site/include.group'
+let g:netrw_dirhist_3='/Users/levi/Sites/ratchford/template/default_site'
+let g:netrw_dirhist_4='/Users/levi/Sites/ratchford/template/default_site/include.group'
+let g:netrw_dirhist_5='/Users/levi/Sites/ratchford/template/default_site'
+let g:netrw_dirhist_6='/Users/levi/Sites/ratchford/template/default_site/subscribe.group'
