@@ -70,6 +70,3 @@
 [submodule "bundle/vim-blade"]
 	path = bundle/vim-blade
 	url = git://github.com/xsbeats/vim-blade.git
-[submodule "bundle/vim-smooth-scroll"]
-	path = bundle/vim-smooth-scroll
-	url = git@github.com:terryma/vim-smooth-scroll.git
