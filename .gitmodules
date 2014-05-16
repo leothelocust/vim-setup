@@ -49,18 +49,6 @@
 [submodule "bundle/applescript"]
 	path = bundle/applescript
 	url = git://github.com/vim-scripts/applescript.vim
-[submodule "bundle/tlib_vim"]
-	path = bundle/tlib_vim
-	url = git://github.com/tomtom/tlib_vim.git
-[submodule "bundle/vim-addon-mw-utils"]
-	path = bundle/vim-addon-mw-utils
-	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "bundle/snipmate"]
-	path = bundle/snipmate
-	url = git://github.com/garbas/vim-snipmate.git
-[submodule "bundle/snippets"]
-	path = bundle/snippets
-	url = git://github.com/honza/vim-snippets.git
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = git://github.com/mileszs/ack.vim
